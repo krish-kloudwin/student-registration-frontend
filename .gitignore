@@ -6,8 +6,6 @@
 /out/
 
 # Environment variables
-.env
-.env.local
 .env.*.local
 
 # Misc
@@ -19,3 +17,7 @@ yarn-error.log*
 
 # TypeScript
 *.tsbuildinfo
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
